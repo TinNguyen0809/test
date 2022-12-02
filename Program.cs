@@ -17,6 +17,7 @@ namespace WindowExplorer
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
             Application.Run(new WindowExplorer());
+            Console.Writeline("Hello");
         }
     }
 }
