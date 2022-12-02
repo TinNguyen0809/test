@@ -18,6 +18,7 @@ namespace WindowExplorer
             Application.SetCompatibleTextRenderingDefault(false);
             Application.Run(new WindowExplorer());
             Console.Writeline("Hello");
+            Console.Writeline("Xinchao");
         }
     }
 }
